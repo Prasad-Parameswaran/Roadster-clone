@@ -1,0 +1,39 @@
+.bg-dark {
+    background-color: #030303!important;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.text-center{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.form-aane{
+    width:80vw;
+    background-color:black;
+}
+.frm{
+    padding: 3vw;
+    background-color:black;
+}
+input{
+    width: 45%;
+}
+.unique{
+ width: 90%;
+}
+.footer{
+    font-size: 12px;
+    list-style: none;
+}
+.center{
+    position: absolute;
+    /*  top: 0;
+      bottom: 0; */
+      left: 0;
+      right: 0;
+      margin: auto;  
+    
+}
